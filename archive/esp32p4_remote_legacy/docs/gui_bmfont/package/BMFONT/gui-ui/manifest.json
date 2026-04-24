@@ -1,0 +1,142 @@
+{
+    "package_name":  "gui-ui-bmfont",
+    "format_version":  1,
+    "generated_at":  "2026-04-17T13:08:54",
+    "pixel_format":  "A8",
+    "charset_dir":  "D:\\Vscode\\ROS2\\ROS2-SLAM-ESP32P4-Project\\docs\\gui_charset",
+    "output_dir":  "D:\\Vscode\\ROS2\\ROS2-SLAM-ESP32P4-Project\\docs\\gui_bmfont\\package\\gui-ui",
+    "default_sizes_px":  [
+                             16,
+                             20,
+                             28
+                         ],
+    "locales":  {
+                    "zh-CN":  {
+                                  "codepoint_source":  "../../../gui_charset/zh-CN.codepoints.bin",
+                                  "font_chain":  [
+                                                     "Noto Sans SC",
+                                                     "Microsoft YaHei UI",
+                                                     "SimHei",
+                                                     "Segoe UI Symbol",
+                                                     "Segoe UI Emoji"
+                                                 ],
+                                  "sizes":  {
+                                                "16":  {
+                                                           "font_size_px":  16,
+                                                           "line_height_px":  24,
+                                                           "ascender_px":  19,
+                                                           "descender_px":  5,
+                                                           "glyph_count":  307,
+                                                           "glyph_data_bytes":  55376,
+                                                           "index_file":  "index.bin",
+                                                           "glyph_file":  "glyph.bin",
+                                                           "family_usage":  {
+                                                                                "Noto Sans SC":  305,
+                                                                                "Segoe UI Emoji":  2
+                                                                            },
+                                                           "missing_codepoints":  [
+
+                                                                                  ]
+                                                       },
+                                                "20":  {
+                                                           "font_size_px":  20,
+                                                           "line_height_px":  29,
+                                                           "ascender_px":  24,
+                                                           "descender_px":  6,
+                                                           "glyph_count":  307,
+                                                           "glyph_data_bytes":  87203,
+                                                           "index_file":  "index.bin",
+                                                           "glyph_file":  "glyph.bin",
+                                                           "family_usage":  {
+                                                                                "Noto Sans SC":  305,
+                                                                                "Segoe UI Emoji":  2
+                                                                            },
+                                                           "missing_codepoints":  [
+
+                                                                                  ]
+                                                       },
+                                                "28":  {
+                                                           "font_size_px":  28,
+                                                           "line_height_px":  41,
+                                                           "ascender_px":  33,
+                                                           "descender_px":  9,
+                                                           "glyph_count":  307,
+                                                           "glyph_data_bytes":  165842,
+                                                           "index_file":  "index.bin",
+                                                           "glyph_file":  "glyph.bin",
+                                                           "family_usage":  {
+                                                                                "Noto Sans SC":  305,
+                                                                                "Segoe UI Emoji":  2
+                                                                            },
+                                                           "missing_codepoints":  [
+
+                                                                                  ]
+                                                       }
+                                            }
+                              },
+                    "ja-JP":  {
+                                  "codepoint_source":  "../../../gui_charset/ja-JP.codepoints.bin",
+                                  "font_chain":  [
+                                                     "Noto Sans JP",
+                                                     "Meiryo",
+                                                     "Yu Gothic UI",
+                                                     "MS Gothic",
+                                                     "Segoe UI Symbol",
+                                                     "Segoe UI Emoji"
+                                                 ],
+                                  "sizes":  {
+                                                "16":  {
+                                                           "font_size_px":  16,
+                                                           "line_height_px":  24,
+                                                           "ascender_px":  19,
+                                                           "descender_px":  5,
+                                                           "glyph_count":  323,
+                                                           "glyph_data_bytes":  56040,
+                                                           "index_file":  "index.bin",
+                                                           "glyph_file":  "glyph.bin",
+                                                           "family_usage":  {
+                                                                                "Noto Sans JP":  321,
+                                                                                "Segoe UI Emoji":  2
+                                                                            },
+                                                           "missing_codepoints":  [
+
+                                                                                  ]
+                                                       },
+                                                "20":  {
+                                                           "font_size_px":  20,
+                                                           "line_height_px":  29,
+                                                           "ascender_px":  24,
+                                                           "descender_px":  6,
+                                                           "glyph_count":  323,
+                                                           "glyph_data_bytes":  87685,
+                                                           "index_file":  "index.bin",
+                                                           "glyph_file":  "glyph.bin",
+                                                           "family_usage":  {
+                                                                                "Noto Sans JP":  321,
+                                                                                "Segoe UI Emoji":  2
+                                                                            },
+                                                           "missing_codepoints":  [
+
+                                                                                  ]
+                                                       },
+                                                "28":  {
+                                                           "font_size_px":  28,
+                                                           "line_height_px":  41,
+                                                           "ascender_px":  33,
+                                                           "descender_px":  9,
+                                                           "glyph_count":  323,
+                                                           "glyph_data_bytes":  165716,
+                                                           "index_file":  "index.bin",
+                                                           "glyph_file":  "glyph.bin",
+                                                           "family_usage":  {
+                                                                                "Noto Sans JP":  321,
+                                                                                "Segoe UI Emoji":  2
+                                                                            },
+                                                           "missing_codepoints":  [
+
+                                                                                  ]
+                                                       }
+                                            }
+                              }
+                }
+}

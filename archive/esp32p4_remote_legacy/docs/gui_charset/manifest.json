@@ -1,0 +1,27 @@
+{
+  "generated_from": "docs/gui_charset/gui_locale_strings.json",
+  "binary_format": {
+    "magic": "UCS4",
+    "version": 1,
+    "endianness": "little",
+    "count_type": "uint32",
+    "codepoint_type": "uint32"
+  },
+  "ascii_range": "U+0020-U+007E",
+  "locales": {
+    "zh-CN": {
+      "string_count": 187,
+      "codepoint_count": 307,
+      "strings_file": "zh-CN.strings.txt",
+      "codepoints_text_file": "zh-CN.codepoints.txt",
+      "codepoints_binary_file": "zh-CN.codepoints.bin"
+    },
+    "ja-JP": {
+      "string_count": 187,
+      "codepoint_count": 323,
+      "strings_file": "ja-JP.strings.txt",
+      "codepoints_text_file": "ja-JP.codepoints.txt",
+      "codepoints_binary_file": "ja-JP.codepoints.bin"
+    }
+  }
+}
